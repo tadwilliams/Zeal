@@ -1,0 +1,49 @@
+body {
+  padding-top: 50px;
+  border: 10px solid #FFFFFF;
+}
+.container {
+	width: 100%;
+	border: 10px solid #FFFFFF;
+}
+.services {
+  padding: 40px 15px;
+  border: 10px solid #FFFFFF;
+  float: left;
+  width: 50%;
+}
+.company {
+  padding: 40px 15px;
+  border: 10px solid #FFFFFF;
+  float: right;
+  width: 50%;
+}
+.me {
+  padding: 40px 15px;
+  border: 10px solid #FFFFFF;
+  float: left;
+  width: 100%
+}
+.service {
+  padding: 40px 15px;
+  border: 10px solid #FFFFFF;
+  float: left;
+  width: 100%
+}
+.contact {
+  padding: 40px 15px;
+  border: 10px solid #FFFFFF;
+  float: left;
+  width: 50%;
+}
+.links {
+  padding: 40px 15px;
+  border: 10px solid #FFFFFF;
+  float: right;
+  width: 50%;
+}
+.navbar{
+float: left;
+border: 10px solid #FFFFFF;
+}
+
